@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center"> Hello there! Welcome to my GitHub profile! 👋</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFF&center=true&width=440&height=45&lines=StellarOracle" alt="Typing SVG" />
+</p>
+<p align="center">
+    <img src="./legend-of-the-galactic-heroes-yang-wenli.gif"/>
+</p>
 
-<!--
-**StellarOracle/StellarOracle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 About Me:
+- 👨‍💻 I’m a passionate software developer and tech enthusiast.
+- 🌱 Currently learning: **C#**
+- 📫 How to reach me: [Telegram DM](https://t.me/StellarOracle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Skills & Tech Stack:
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/ASP.NET-%230078D7.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-%2300C853.svg?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StellarOracle&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarOracle&layout=compact&theme=radical)
+
+---
+
+### 📢 Connect with Me:
+<div align="center">
+  <a href="https://t.me/StellarOracle" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://x.com/StellarOracle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://mas.to/@StellarOracle" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-%23263D74.svg?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+  </a>
+</div>
+
+---
+<div align="center">
+  <h4>✨ Keep coding, keep growing! ✨</h4>
+</div>
