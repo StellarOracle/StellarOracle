@@ -36,9 +36,8 @@
 
   <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/SEO-%2300C853.svg?style=for-the-badge&logo=google&logoColor=white" />
-</div>
+</div>  
 
----
 ---
 
 ### 📢 Connect with Me:
