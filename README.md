@@ -55,6 +55,3 @@
 </div>
 
 ---
-<div align="center">
-  <h4>✨ Keep coding, keep growing! ✨</h4>
-</div>
