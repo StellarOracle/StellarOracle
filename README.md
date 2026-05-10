@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there! Welcome to my GitHub profile! 👋</h1>
+<h1 align="center"> Hello there! Welcome to my GitHub profile👋</h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFF&center=true&width=440&height=45&lines=StellarOracle" alt="Typing SVG" />
 </p>
@@ -39,12 +39,6 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StellarOracle&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarOracle&layout=compact&theme=radical)
-
 ---
 
 ### 📢 Connect with Me:
