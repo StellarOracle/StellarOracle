@@ -10,7 +10,7 @@
 
 ### 🌟 About Me:
 - 👨‍💻 I’m a passionate software developer and tech enthusiast.
-- 📫 How to reach me: [Telegram DM](https://t.me/StellarOracle)
+- 📫 How to reach me: [Telegram DM](https://t.me/SinaShams8)
 
 ---
 
