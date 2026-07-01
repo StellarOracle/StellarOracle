@@ -16,8 +16,9 @@
 
 ### 🛠️ My Skills & Tech Stack:
 <div align="center">
-   <img src="https://camo.githubusercontent.com/d067583a182b23e096af3eb622dd22bd5eb0febb249c21a150164dcb41cc0e6b/68747470733a2f2f69636f6e69632d6170692e6f6e72656e6465722e636f6d2f6461726b2f707974686f6e" />
-
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/js" width="64px" />
 </div>  
 
 ---
